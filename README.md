@@ -1,2 +1,2 @@
 # static
-Static resources, such as images
+Store static resources, such as images
